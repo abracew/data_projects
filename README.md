@@ -1,2 +1,2 @@
-# data_projects
- 
+# projects
+A repository of data analysis projects.
